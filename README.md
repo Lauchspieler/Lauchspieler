@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lauchspieler
 - 👀 I’m interested in Software development and japanese Animation
-- 🌱 I’m currently learning fucking Java
+- 🌱 I’m currently learning the terrible language named Java
 - 💞️ I’m looking to collaborate on nothing, cause I haven't some ideas
 - 📫 How to reach me is a big question
 
